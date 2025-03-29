@@ -5,7 +5,7 @@
 
 ### Datos Personales
 - Mi nombre es: Franco Corrales, estoy haciendo Tecnicatura en desarrollo de Videojuegos de la unahur.
-- Vivo en Hurlingham, cerca de la universidad, Trabajo en CNEA (Comision Nacional de Energia Atomica) en el sector de Quimica ambiental, como tecnico electronico, haciendo mantenimiento de los equipos de medicion de contaminantes. Gracias a este trabajo pude conocer diferentes partes del pais com catamarca, salta, Bariloche, entre otros.
+- Vivo en Hurlingham, cerca de la universidad, Trabajo en CNEA (Comision Nacional de Energia Atomica) en el sector de Quimica ambiental, como tecnico electronico, haciendo mantenimiento de los equipos de medicion de contaminantes. Gracias a este trabajo pude conocer diferentes partes del pais como Catamarca, Salta, Bariloche, entre otros.
 
 
 ### Otra Información
