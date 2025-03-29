@@ -9,6 +9,6 @@
 
 
 ### Otra Información
-- Ya  curse la materia, lamentablemente tuve que dejar la cursada por los viajes de trabajo.
+- Ya hice la materia, el cuatrimestre anterior. Lamentablemente tuve que dejar la cursada por los viajes de trabajo.
 - Me encantan los gatitos, Tengo 2 gatos, siempre me acompañan en mis clases, pero no siempre aguantan toda la clase.
 ![alt text](<gatito durmiendo.jpeg>)
